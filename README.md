@@ -1,6 +1,6 @@
 # Wireshark Analysis Labs
 
-A repository of on packet analysis labs in an enterprise interpired home network. Each project walks through a real scenario, the filters and features used to investigate it, and the blue team takeaway.
+A repository of packet analysis labs in an enterprise inspired home network. Each project walks through a real scenario, the filters and features used to investigate it, and the blue team takeaway.
 
 **Goal:** Build and demonstrate practical network analysis skills using packet captures and Wireshark
 
