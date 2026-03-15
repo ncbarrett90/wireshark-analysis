@@ -11,5 +11,6 @@ A repository of on packet analysis labs in an enterprise interpired home network
 
 ## Projects
 
-| Lab | Description | Key Focus |
-|-----|-------------|-----------|
+| Lab | Description | Key Focus | Link | 
+|-----|-------------|-----------|------|
+| DNS Analysis | validate encrypted DNS implementation | DNS security stack implementation/validation | [dns-wireshark-analysis](modules/dns-wireshark-analysis/dns-wireshark-analysis.md)
